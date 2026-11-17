@@ -12,6 +12,9 @@
     "README.md",
     "README.zh.md"
   ],
+  "scripts": {
+    "preflight:entry": "node scripts/preflight-repo-age.mjs"
+  },
   "keywords": [
     "awesome",
     "awesome-list",
